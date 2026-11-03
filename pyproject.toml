@@ -11,6 +11,8 @@ dependencies = [
     "typer>=0.27.0",
     "typer-helptree>=0.2.12",
     "blindwindow>=0.1.2",
+    "python-snap7>=3.3.1",
+    "s7commplus>=0.3.0",
 ]
 
 license = "MIT"
